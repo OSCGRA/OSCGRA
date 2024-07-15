@@ -32,7 +32,7 @@
 | [Exo-life Hycean Quest](https://github.com/carloscuerda9/exolife-hycean-quest) | 🌌 Space      |   Small project to search for life-hosting candidates using NASA's exoplanet database. |
 | [Blue & Gold](https://github.com/carloscuerda9/Final-project) | 📈  Political Economy    | Spatial representation of Blue and Golden banana according to EU macroeconomic indicators. |
 | [Settle House Price Predictor](https://github.com/OSCGRA/seattle-house-price-predictor) | 📈  Real State   | Real estate predictor in Seattle.|
-| [Portfolio Analysis](https://github.com/OSCGRA/portfolio-analysis) | 📈  Political Economy    | An introductory analysis of a portfolio consisting of 5 asset portfolios between 2019 and 2021 has been conducted. |
+| [Portfolio Analysis](https://github.com/OSCGRA/portfolio-analysis) | 📈  Finance    | An introductory analysis of a portfolio consisting of 5 asset portfolios between 2019 and 2021 has been conducted. |
 </p>
 
 <h3 align="left">Connect with me:</h3>
