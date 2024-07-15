@@ -1,9 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Oscar</h1> <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/6763c177-fb65-4509-a02c-6ade97fb079c" /> </p>
+<h1 align="center">Hi 👋, I'm Oscar</h1> <p align="center">
   
-<h3 align="center">My passions? Maps, commons developing, research and data analysis (and Space!).</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6763c177-fb65-4509-a02c-6ade97fb079c" />
+</p>
 
+<p align="center">  
+<h2 align="center">My passions? Maps, commons developing, research and data analysis (and Space!).</h3>
+</p>
 
 - 🔭 I’m currently working on [My Workcation Path](https://github.com/OSCGRA/my-workcation-path)
 
@@ -18,8 +22,9 @@
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/oscar-analyst-scientist/)
 
 - ⚡ Fun fact **My dog calls Loja, that it means "shop" in portuguese.**
+</p>
 
-
+<h3>💼 Ongoing Projects:</h2>  
 
 | Proyect  | General Topic | Description |
 | ------------- | ------------- | ------------- |
@@ -28,6 +33,7 @@
 | [Blue & Gold](https://github.com/carloscuerda9/Final-project) | 📈  Political Economy    | Spatial representation of Blue and Golden banana according to EU macroeconomic indicators. |
 | [Settle House Price Predictor](https://github.com/OSCGRA/seattle-house-price-predictor) | 📈  Real State   | Real estate predictor in Seattle.|
 | [Portfolio Analysis](https://github.com/OSCGRA/portfolio-analysis) | 📈  Political Economy    | An introductory analysis of a portfolio consisting of 5 asset portfolios between 2019 and 2021 has been conducted. |
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
