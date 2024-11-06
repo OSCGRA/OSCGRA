@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1> <p align="center">
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6763c177-fb65-4509-a02c-6ade97fb079c" />
+  <img src="https://media.giphy.com/media/ykEcjPgbKboYv8nvOD/giphy.gif" width="300" height="300" />
 </p>
 
 <p align="center">  
