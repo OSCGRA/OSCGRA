@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">  
-<h2 align="center">My passions? Maps, commons developing, research and data analysis (and Space!).</h3>
+<h2 align="center">After a long year, I'm back! (and Space!).</h3>
 </p>
 
-- 🔭 I’m currently working on [My Workcation Path](https://github.com/OSCGRA/my-workcation-path)
+- 🔭 I’m currently working on **THIS PROFILE**
 
-- 🌱 I’m currently learning **Spyder, SQL, Microsoft Power BI.**
+- 🌱 I’m currently learning **R, SQL, Microsoft Power BI, and Data Visualization.**
 
-- 👯 I’m looking to collaborate on **Spatial Data Projects**
+- 👯 I’m looking for collaborate on **Spatial Data Projects**
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/OSCGRA?tab=repositories)
 
