@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">  
-<h2 align="center">After a long year, I'm back! (and Space!).</h3>
+<h2 align="center">After a long year, I'm back!</h3>
 </p>
 
 - 🔭 I’m currently working on **THIS PROFILE**
